@@ -15,7 +15,7 @@ Before you run the script, ensure you have the following installed:
 **Clone the repository:**
 
    ```
-git clone https://github.com/Vamsi-Krisna-Ravilla/Image_scrapping.git
+git clone https://github.com/Vamsi-Krisna-ravilla/Image_scrapping.git
 ```
 Install dependencies:
 ```
